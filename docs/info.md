@@ -16,6 +16,6 @@ JEE MAINS
 
 ## External hardware
 
-1 human;
-2 power plug;
-3 black cow heart(optional)
+1 human/
+2 power plug/
+3 black cow heart(optional)/
